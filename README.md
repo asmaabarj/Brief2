@@ -12,3 +12,5 @@ Page de contact : La page de contact vous permet de prendre contact avec le caf√
 # Les maquettes de figma
  https://www.figma.com/file/dIxCVZdvWHe2BfQLrl1HiK/O'coffee-(3)?type=design&node-id=77%3A884&mode=design&t=nJEwmPMP35dFS69Q-1
  
+ # Presentation
+ https://wepik.com/share/9a5e72da-bb93-472c-a531-4e62142c5fcf#rs=link
